@@ -10,7 +10,7 @@ const Header = () => {
             width="200" 
             height="250"
             src={Logo} alt='Logo' />
-          <button className='btn btn-sm'>Follow Me!</button>
+          <button className='btn btn-sm'>Me acompanhe!</button>
       </div>
     </div>
   </header>;
